@@ -1,4 +1,5 @@
 
+HEY this is a cool new feature for my change log.
 ### new.package.version
 ### version.newversion
 ### a.newversion.is.born
