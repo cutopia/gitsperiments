@@ -1,4 +1,6 @@
-### 777 blah blah (HEAD -> master)
+### adding changelog (HEAD -> master)
+
+### 777 blah blah
 
 ### 777 testing testing
 
