@@ -1,10 +1,18 @@
 
-nTweaking the formatting
-nTrying out fix for hook not adding the copied files
-nSay hello to this feature
-nA brand new feature for you!
-nHere is a nice feature. Admire it please.
-n HEY this is a cool new feature for my change log.
+
+Trying again
+
+Tweaking the formatting
+
+Trying out fix for hook not adding the copied files
+
+Say hello to this feature
+
+A brand new feature for you!
+
+Here is a nice feature. Admire it please.
+
+ HEY this is a cool new feature for my change log.
 
 ### new.package.version
 
