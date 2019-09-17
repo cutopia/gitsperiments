@@ -1,17 +1,25 @@
 
-nTweaking the formatting
-nTrying out fix for hook not adding the copied files
-nSay hello to this feature
-nA brand new feature for you!
-nHere is a nice feature. Admire it please.
-n HEY this is a cool new feature for my change log.
 
-### new.package.version
+- Trying again
 
-### version.newversion
+- Tweaking the formatting
 
-### a.newversion.is.born
+- Trying out fix for hook not adding the copied files
 
-### myfakeversion.commit
+- Say hello to this feature
 
-### myfakepackage.packagehappy
+- A brand new feature for you!
+
+- Here is a nice feature. Admire it please.
+
+- HEY this is a cool new feature for my change log.
+
+## [new.package.version] - 2019-09-16
+
+## [version.newversion] - 2019-09-16
+
+## [a.newversion.is.born] - 2019-09-16
+
+## [myfakeversion.commit] - 2019-09-16
+
+## [myfakepackage.packagehappy] - 2019-09-16
