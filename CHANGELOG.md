@@ -1,4 +1,5 @@
 
+Here is a nice feature. Admire it please.
 HEY this is a cool new feature for my change log.
 ### new.package.version
 ### version.newversion
